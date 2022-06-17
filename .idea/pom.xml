@@ -1,0 +1,20 @@
+
+<Student>
+<name>Shanker</name>
+<roll>1re106</roll>
+        </Student>
+
+        {
+        "name": "Rama",
+        "roll": "1re206"
+        }
+
+        curl -X POST \
+        http://localhost:8080/students/ \
+        -H 'cache-control: no-cache' \
+        -H 'content-type: application/xml' \
+        -d '<Student>
+<name>Shanker</name>
+<roll>1re106</roll>
+</Student>'
+
