@@ -1,6 +1,6 @@
-package com.mahe.second.app.controller;
+package com.group7mahe13.second.app.controller;
 
-import com.mahe.second.app.data.Hospital;
+import com.group7mahe13.second.app.data.Hospital;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

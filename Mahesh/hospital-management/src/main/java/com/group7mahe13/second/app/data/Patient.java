@@ -1,4 +1,4 @@
-package com.mahe.second.app.data;
+package com.group7mahe13.second.app.data;
 
 import java.util.Objects;
 

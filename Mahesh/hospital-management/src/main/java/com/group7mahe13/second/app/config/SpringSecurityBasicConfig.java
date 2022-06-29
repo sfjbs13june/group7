@@ -1,4 +1,4 @@
-package com.mahe.second.app.config;
+package com.group7mahe13.second.app.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

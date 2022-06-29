@@ -1,4 +1,4 @@
-package com.mahe.second.app;
+package com.group7mahe13.second.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
