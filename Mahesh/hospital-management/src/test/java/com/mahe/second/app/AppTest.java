@@ -1,5 +1,5 @@
 /*
-package com.bijay.second.app;
+package com.mahe13.second.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

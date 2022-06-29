@@ -1,4 +1,4 @@
-package com.bijay.second.app.data;
+package com.mahe.second.app.data;
 
 public class Hospital {
     public String name;

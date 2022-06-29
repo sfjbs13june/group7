@@ -1,6 +1,6 @@
-package com.group6hari20.controller;
+package com.group7mahesh13.controller;
 
-import com.group6hari20.data.Hospital;
+import com.group7mahe13.data.Hospital;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
