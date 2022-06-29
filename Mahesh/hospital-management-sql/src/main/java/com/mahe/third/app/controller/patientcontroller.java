@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 public class patientcontroller {
     @GetMapping("/get/patient/name")
     public String getDetail() {
-        String name = "Rama";
+        String name = "Shriharitha";
         return name;
     }
 

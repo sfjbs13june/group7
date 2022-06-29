@@ -1,4 +1,4 @@
-package com.bijay.third.app.repository;
+package com.mahe.third.app.repository;
 
 import com.bijay.third.app.data.Patient;
 import org.springframework.data.repository.CrudRepository;

@@ -1,4 +1,4 @@
-package com.bijay.third.app;
+package com.mahe.third.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
