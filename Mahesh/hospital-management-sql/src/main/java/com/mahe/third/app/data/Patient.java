@@ -1,4 +1,4 @@
-package com.bijay.third.app.data;
+package com.mahe.third.app.data;
 
 public class Patient {
     public String name;
