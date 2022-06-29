@@ -1,4 +1,4 @@
-package com.group6hari20;
+package com.group7mahe13;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

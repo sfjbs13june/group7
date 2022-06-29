@@ -1,4 +1,4 @@
-package com.bijay.second.app.data;
+package com.mahe.second.app.data;
 
 import java.util.Objects;
 
